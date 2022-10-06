@@ -1,0 +1,110 @@
+{
+  "lists": [
+    {
+      "name": "Breakefast",
+      "colorId": 3,
+      "id": 3
+    },
+    {
+      "name": "Work",
+      "colorId": 4,
+      "id": 4
+    },
+    {
+      "name": "Приседаня",
+      "colorId": 4,
+      "id": 5
+    },
+    {
+      "name": "Doing",
+      "colorId": 1,
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 4,
+      "text": "qwe",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "listId": 3,
+      "text": "Breacfast is good",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "listId": 3,
+      "text": "eqwe",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "listId": 3,
+      "text": "qweqeqeqeqwe",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "listId": 3,
+      "text": "qweqwe",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "listId": 3,
+      "text": "йцуйуц",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "listId": 6,
+      "text": "GHbdtn",
+      "completed": false,
+      "id": 18
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
